@@ -1,13 +1,9 @@
-
-
-
 //
 //  ViewController.swift
 //  TestApp
 //
 //  Created by Macboy on 6/12/21.
-//  Created by Kasidit Muenprasitivej
-
+//
 
 import UIKit
 
@@ -54,3 +50,4 @@ class ViewController: UIViewController {
     }
     
 }
+
